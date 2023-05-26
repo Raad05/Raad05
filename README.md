@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/Ashabul.Yamin.L/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavchanda" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/yaminraad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="25" width="35" /></a>
-<a href="https://discord.com/channels/@Luci4#6091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="40" width="35" /></a>
+<a href="https://www.facebook.com/Ashabul.Yamin.L/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavchanda" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/yaminraad/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="25" width="35" /></a>
+<a href="https://discord.com/channels/@Luci4#6091"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="40" width="35" /></a>
 </p>
 
 ```yaml
