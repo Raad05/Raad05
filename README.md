@@ -24,7 +24,7 @@
 ```yaml
 Technologies that I actively work with:
   Languages:
-  - javaScript, TypeScript
+  - JavaScript, TypeScript
   Frontend:
   - ReactJS
   Styling/Component-library:
