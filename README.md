@@ -6,12 +6,10 @@
 
 <h3>A little more about myself:</h3>
 
-- 🔭 I'm currently working at a startup as a **Software Engineer**
-
-- 🌱 I'm currently learning about **Blockchain Technology and Web3**
-
+- 🔭 I'm currently an intern at **Grameen Communications** as a **Blockchain Developer**
+- 🔭 I'm also working at a startup as a **Software Engineer**
+- 🌱 I'm actively learning about **Blockchain Technology and Web3**
 - 💬 My interests extend to **Full-stack engineering, DevOps and Web3**
-
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
