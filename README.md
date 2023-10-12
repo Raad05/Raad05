@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, this is Raad</h1>
 <h3 align="center">Full-stack Engineer || Web3 Freshman</h3>
 
-<p align="center">Henlo, it's me again. So, who am I? I am a junior software developer with a focus on DevOps and Web3/Blockchain technologies. And, currently, I'm suffering from imposter syndrome 🙂. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
+<p align="center">Henlo, it's me again. So, who am I? I am a junior software developer with a focus on Web3/Blockchain technologies. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
 </p>
 
 <h3>A little more about myself:</h3>
 
 - 🔭 I'm currently working as a **Software Engineer** at an EV-based startup named **ZEROOZEN**
 - 🌱 I'm actively learning about **Blockchain Technology** and **Web3**
-- 💬 My interests extend to **Full-stack engineering, DevOps** and **Web3**
+- 💬 My interests extend to **Full-stack engineering** and **Web3 technologies**
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
