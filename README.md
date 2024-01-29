@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, this is Raad</h1>
 <h3 align="center">Full-stack Engineer || Web3 Freshman</h3>
 
-<p align="center">Henlo, it's me again. So, who am I? I am a junior software developer with a focus on Web3/Blockchain technologies. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
+<p align="center">Henlo, it's me again. So, who am I? I am a junior software engineer with a focus on Web2 and Web3/Blockchain technologies. My interests extend to full-stack engineering, where I create intuitive user experiences and build scalable applications. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
 </p>
 
 <h3>A little more about myself:</h3>
@@ -33,7 +33,7 @@ Technologies that I actively work with:
   - MongoDB, Mongoose
   Containerization Technologies:
   - Docker
-  Decentralized Technologies:
+  Web3:
   - Ethereum, Hyperledger Fabric, Hyperledger Firefly, Hyperledger Besu
   Version Control:
   - Git, GitHub
