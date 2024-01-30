@@ -6,9 +6,9 @@
 
 <h3>A little more about myself:</h3>
 
-- 🔭 I'm currently working as a **Software Engineer** at an EV-based startup named **ZEROOZEN**
-- 🌱 I'm actively learning about **Blockchain Technology** and **Web3**
-- 💬 My interests extend to **Full-stack engineering** and **Web3 technologies**
+- 🔭 I'm currently working as a **software engineer** at an EV-based startup named **ZEROOZEN**
+- 🌱 I'm actively learning about **Web2** and **Web3/Blockchain technologies**
+- 💬 My interests extend to **full-stack engineering**
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,12 +21,11 @@
 ```yaml
 Technologies that I actively work with:
   Languages:
-  - JavaScript, TypeScript, Solidity
+  - JavaScript, TypeScript, Solidity, Python
   Frontend:
-  - ReactJS, React Native
+  - ReactJS, NextJS, React Native
   Styling/Component-library:
-  - Tailwind CSS, Bootstrap
-  - Daisy-UI, Material-UI 
+  - Tailwind CSS, Bootstrap, Daisy-UI, Material-UI 
   Backend:
   - NodeJS, ExpressJS
   Database:
@@ -34,9 +33,12 @@ Technologies that I actively work with:
   Containerization Technologies:
   - Docker
   Web3:
-  - Ethereum, Hyperledger Fabric, Hyperledger Firefly, Hyperledger Besu
+  - Ethereum, Hardhat, Hyperledger Besu, Hyperledger Firefly
   Version Control:
   - Git, GitHub
 Previously worked with:
-- Python, C#, Dart, PHP, MySQL
+  Languages:
+  - C, C++, C#, Dart, PHP, MySQL
+  Web3:
+  - Truffle & Ganache, Hyperledger Fabric 
 ```
