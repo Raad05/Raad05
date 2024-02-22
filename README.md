@@ -6,7 +6,6 @@
 
 <h3>A little more about myself:</h3>
 
-- 🔭 I'm currently working as a **software engineer** at an EV-based startup named **ZEROOZEN**
 - 🌱 I'm actively learning about **Web2** and **Web3/Blockchain technologies**
 - 💬 My interests extend to **full-stack engineering**
 - 📫 Reach me at **yamin.raad6109@gmail.com**
