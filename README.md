@@ -22,22 +22,24 @@ Technologies that I actively work with:
   Languages:
   - JavaScript, TypeScript, Solidity, Python
   Frontend:
-  - ReactJS, NextJS, React Native
+  - ReactJS, NextJS
   Styling/Component-library:
-  - Tailwind CSS, Bootstrap, Daisy-UI, Material-UI 
+  - Tailwind CSS, DaisyUI, Shadcn 
   Backend:
   - NodeJS, ExpressJS
   Database:
-  - MongoDB, Mongoose
-  Containerization Technologies:
-  - Docker
+  - PostgreSQL, MongoDB, Mongoose
   Web3:
-  - Ethereum, Hardhat, Hyperledger Besu, Hyperledger Firefly
+  - Ethereum, Hardhat
   Version Control:
   - Git, GitHub
 Previously worked with:
   Languages:
   - C, C++, C#, Dart, PHP, MySQL
+  Styling/Component-library:
+  - Bootstrap, MaterialUI
   Web3:
-  - Truffle & Ganache, Hyperledger Fabric 
+  - Hyperledger Besu, Hyperledger Firefly, Truffle & Ganache, Hyperledger Fabric
+  Containerization:
+  - Docker
 ```
