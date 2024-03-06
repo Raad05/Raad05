@@ -37,7 +37,7 @@ Previously worked with:
   Languages:
   - C, C++, C#, Dart, PHP, MySQL
   Styling/Component-library:
-  - Bootstrap, MaterialUI
+  - Bootstrap, MaterialUI, Framer Motion
   Web3:
   - Hyperledger Besu, Hyperledger Firefly, Truffle & Ganache, Hyperledger Fabric
   Containerization:
