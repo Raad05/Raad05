@@ -36,6 +36,8 @@ Technologies that I actively work with:
 Previously worked with:
   Languages:
   - C, C++, C#, Dart, PHP, MySQL
+  Mobile Application:
+  - React Native, Flutter
   Styling/Component-library:
   - Bootstrap, MaterialUI, Framer Motion
   Web3:
