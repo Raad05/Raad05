@@ -18,30 +18,28 @@
 </p>
 
 ```yaml
-Technologies that I actively work with:
+I actively work with:
   Languages:
-  - JavaScript, TypeScript, Solidity, Python
-  Frontend:
-  - ReactJS, NextJS
-  Styling/Component-library:
-  - Tailwind CSS, DaisyUI, Shadcn 
-  Backend:
-  - NodeJS, ExpressJS
+  - JavaScript/TypeScript, Solidity, Python
+  Libraries and Frameworks:
+  - NextJS, Redux-toolkit, Tailwind CSS, Daisy UI, NodeJS, ExpressJS, GraphQL, Prisma, Mongoose
   Database:
-  - PostgreSQL, MongoDB, Mongoose
+  - PostgreSQL, MongoDB, MySQL
   Web3:
   - Ethereum, Hardhat
   Version Control:
-  - Git, GitHub
+  - Git/GitHub
+  
 Previously worked with:
   Languages:
-  - C, C++, C#, Dart, PHP, MySQL
-  Mobile Application:
-  - React Native, Flutter
-  Styling/Component-library:
-  - Bootstrap, MaterialUI, Framer Motion
+  - C/C++, C#, Java, Dart, PHP
+  Libraries and Frameworks:
+  - Bootstrap, Material UI, Shadcn, Framer Motion
   Web3:
-  - Hyperledger Besu, Hyperledger Firefly, Truffle & Ganache, Hyperledger Fabric
-  Containerization:
-  - Docker
+  - Hyperledger Family, Truffle & Ganache
+  Development Platforms:
+  - React Native, Flutter, Docker
+  
+Miscellaneous:
+- VSCode, Remix, Linux/Unix, Vercel, Netlify, Metamask, Postman, Figma, Jira, Premiere Pro, After Effects 
 ```
