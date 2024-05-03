@@ -22,7 +22,8 @@ I actively work with:
   Languages:
   - JavaScript/TypeScript, Solidity, Python
   Libraries and Frameworks:
-  - NextJS, Redux-toolkit, Tailwind CSS, Daisy UI, NodeJS, ExpressJS, GraphQL, Prisma, Mongoose
+  - NextJS, Redux-toolkit, React Query, Tailwind CSS, Daisy UI,
+    NodeJS, ExpressJS, GraphQL, Prisma, Mongoose
   Database:
   - PostgreSQL, MongoDB, MySQL
   Web3:
@@ -34,12 +35,15 @@ Previously worked with:
   Languages:
   - C/C++, C#, Java, Dart, PHP
   Libraries and Frameworks:
-  - Bootstrap, Material UI, Shadcn, Framer Motion
+  - Bootstrap, Material UI, Shadcn, Framer Motion, Ant Design,
+    Zustand 
   Web3:
   - Hyperledger Family, Truffle & Ganache
   Development Platforms:
   - React Native, Flutter, Docker
   
 Miscellaneous:
-- VSCode, Remix, Linux/Unix, Vercel, Netlify, Metamask, Postman, Figma, Jira, Premiere Pro, After Effects 
+- VSCode, Remix, Linux/Unix, Vercel, Netlify,
+  Metamask, Postman, Figma, Jira, Premiere Pro,
+  After Effects 
 ```
