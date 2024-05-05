@@ -22,7 +22,7 @@ I actively work with:
   Languages:
   - JavaScript/TypeScript, Solidity, Python
   Libraries and Frameworks:
-  - NextJS, Redux-toolkit, React Query, Tailwind CSS, Daisy UI,
+  - NextJS, Redux/Redux-toolkit, React Query, Tailwind CSS, Daisy UI,
     NodeJS, ExpressJS, GraphQL, Prisma, Mongoose
   Database:
   - PostgreSQL, MongoDB, MySQL
