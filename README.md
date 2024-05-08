@@ -25,7 +25,7 @@ I actively work with:
   - NextJS, Redux/Redux-toolkit, React Query, Tailwind CSS, Daisy UI,
     NodeJS, ExpressJS, GraphQL, Prisma, Mongoose
   Database:
-  - PostgreSQL, MongoDB, MySQL
+  - PostgreSQL, MongoDB
   Web3:
   - Ethereum, Hardhat
   Version Control:
@@ -36,7 +36,9 @@ Previously worked with:
   - C/C++, C#, Java, Dart, PHP
   Libraries and Frameworks:
   - Bootstrap, Material UI, Shadcn, Framer Motion, Ant Design,
-    Zustand 
+    Zustand
+  Database:
+  - MySQL
   Web3:
   - Hyperledger Family, Truffle & Ganache
   Development Platforms:
