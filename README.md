@@ -6,8 +6,8 @@
 
 <h3>A little more about myself:</h3>
 
-- 🌱 I'm actively learning about **Web2** and **Web3/Blockchain technologies**
-- 💬 My interests extend to **full-stack engineering**
+- 🌱 Actively exploring **DAOs** and **DeFi**
+- 💬 Currently learning **Rust**
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
