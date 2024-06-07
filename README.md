@@ -33,7 +33,7 @@ I actively work with:
   
 Previously worked with:
   Languages:
-  - C/C++, C#, Java, Dart, PHP
+  - C/C++, C#, Java, Dart
   Libraries and Frameworks:
   - Bootstrap, Material UI, Shadcn, Framer Motion, Ant Design,
     Zustand
