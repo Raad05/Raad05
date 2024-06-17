@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, this is Raad</h1>
+<h1 align="center">Hi 👋, this is Raad</h1>
 <h3 align="center">Full-stack Engineer || Web3 Freshman</h3>
 
 <p align="center">Henlo, it's me again. So, who am I? I am a junior software engineer with a focus on Web2 and Web3/Blockchain technologies. My interests extend to full-stack engineering, where I create intuitive user experiences and build scalable applications. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
