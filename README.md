@@ -27,7 +27,7 @@ I actively work with:
   Database:
   - PostgreSQL, MongoDB
   Web3:
-  - Ethereum, Hardhat
+  - Ethers.js, Web3.js, Hardhat
   Version Control:
   - Git/GitHub
   
