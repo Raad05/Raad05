@@ -42,7 +42,7 @@ Previously worked with:
   Web3:
   - Hyperledger Family, Truffle & Ganache
   Development Platforms:
-  - React Native, Flutter, Docker
+  - Flutter, Docker
   
 Miscellaneous:
 - VSCode, Remix, Linux/Unix, Vercel, Netlify,
