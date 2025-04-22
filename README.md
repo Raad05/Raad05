@@ -20,33 +20,33 @@
 ```yaml
 I actively work with:
   Languages:
-  - JavaScript/TypeScript, Solidity, Python
+  - JavaScript/TypeScript, Solidity, Rust
   Libraries and Frameworks:
-  - NextJS, Redux/Redux-toolkit, Tailwind CSS,
-    Daisy UI, NodeJS, ExpressJS,
-    GraphQL, Prisma, Mongoose
+  - NextJS, Redux-toolkit, Tailwind CSS, Shadcn, NestJS
   Database:
-  - PostgreSQL, MongoDB
+  - PostgreSQL
   Web3:
-  - Ethers.js, Web3.js, Hardhat
+  - Ethers.js, Rainbowkit Wagmi, Hardhat, Foundry, Thirdweb
+  Development Platforms:
+  - Docker 
   Version Control:
   - Git/GitHub
   
 Previously worked with:
   Languages:
-  - C/C++, C#, Java, Dart
+  - C#, Java, Dart, Python
   Libraries and Frameworks:
-  - Bootstrap, Material UI, Shadcn,
-    Framer Motion, Ant Design, Zustand
+  - Material UI, GraphQL, Prisma, Mongoose, Framer Motion,
+    Ant Design, Zustand
   Database:
-  - MySQL
+  - MySQL, MongoDB
   Web3:
   - Hyperledger Family, Truffle & Ganache
   Development Platforms:
-  - Flutter, Docker
+  - Flutter
   
 Miscellaneous:
 - VSCode, Remix, Linux/Unix, Vercel, Netlify,
-  Metamask, Postman, Figma, Jira, Premiere Pro,
+  Metamask, Postman, Figma, Jira, Github Projects, Premiere Pro,
   After Effects 
 ```
