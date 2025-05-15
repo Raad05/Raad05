@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Raad</h1>
-<h3 align="center">Full-stack Engineer || Web3 Sophomore</h3>
+<h3 align="center">Software Engineer || Blockchain Developer</h3>
 
 <p align="center">So, who am I? I am a junior software engineer with a focus on distributed systems and web3/blockchain technologies. My expertise extends to full-stack engineering, where I create intuitive user experiences and build scalable applications. Feel free to reach out and start a conversation. I'm looking forward to connecting with like-minded people who share my enthusiasm.
 </p>
@@ -7,7 +7,7 @@
 <h3>A little more about myself:</h3>
 
 - 🌱 Actively exploring **DAOs** and **DeFi**
-- 💬 Currently learning **Rust**
+- 💬 Currently learning **DEX** protocols such as **Uniswap** 
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
