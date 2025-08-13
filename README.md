@@ -7,7 +7,7 @@
 <h3>A little more about myself:</h3>
 
 - 🌱 Actively exploring **DAOs** and **DeFi**
-- 💬 Currently learning **DEX** protocols such as **Uniswap** 
+- 💬 Currently learning **Rust** and **Solana** development 
 - 📫 Reach me at **yamin.raad6109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
